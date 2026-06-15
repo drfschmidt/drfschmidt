@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./assets/header.svg" alt="Header" width="100%" />
 </p>
+#
 
-###
 ## Kurzbeschreibung
 
 Ich heiße Frank Schmidt — promovierter Elektroingenieur, inzwischen im Ruhestand, aber längst nicht im Leerlauf.
