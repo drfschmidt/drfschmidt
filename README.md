@@ -47,4 +47,4 @@ Parallel to this, I run an advisory office of an income tax assistance associati
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=drfschmidt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=drfschmidt&icon=0&color=brightgreen)](https://visitcount.itsvg.in)
