@@ -23,3 +23,28 @@ My name is Frank Schmidt — PhD in electrical engineering, now retired, but by 
 My free time is devoted to my HomeLab: virtualization with Proxmox, smart home control with Home Assistant and Homematic IP, and constantly refining new solutions.
 
 Parallel to this, I run an advisory office of an income tax assistance association in Leipzig Gohlis.
+
+---
+
+## 🌐 Socials
+
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drfschmidt)
+
+---
+
+## 💻 Tech Stack
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=drfschmidt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)/
+
+<!-- ![](https://streak-stats.demolab.com/?user=drfschmidt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=drfschmidt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+---
+
+[![Profile views](https://komarev.com/ghpvc/?username=drfschmidt&icon=0&color=0)](https://visitcount.itsvg.in)
