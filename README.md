@@ -32,7 +32,7 @@ Parallel to this, I run an advisory office of an income tax assistance associati
 
 ## 💻 Tech Stack
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E95420?style=plastic&logo=proxmox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![KOMODO](https://img.shields.io/badge/Komodo-2e8555?style=plastic&logo=https://github.com/drfschmidt/drfschmidt/blob/main/assets/komodo_logo.png&logoColor=white)/
+![Proxmox](https://img.shields.io/badge/Proxmox-E95420?style=plastic&logo=proxmox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![KOMODO](https://img.shields.io/badge/Komodo-2e8555?style=plastic&logo=https://raw.githubusercontent.com/drfschmidt/drfschmidt/main/assets/komodo_logo.png&logoColor=white)
 
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-009639?style=plastic&logo=nginx&logoColor=white) ![paperless-ngx](https://img.shields.io/badge/paperless--ngx-2e8555?style=plastic&logoColor=white) ![nextcloud](https://img.shields.io/badge/nextcloud-0082C9?style=plastic&logo=nextcloud&logoColor=white)
 
