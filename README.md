@@ -28,9 +28,7 @@ Parallel to this, I run an advisory office of an income tax assistance associati
 
 ## 🌐 Socials
 
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drfschmidt)
-
----
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drfschmidt) [![Xing](https://img.shields.io/badge/Xing-%23006567.svg?logo=xing&logoColor=white)](https://www.xing.com/profile/Frank_Schmidt)
 
 ## 💻 Tech Stack
 
