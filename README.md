@@ -30,6 +30,8 @@ Parallel to this, I run an advisory office of an income tax assistance associati
 
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/drfschmidt) [![Xing](https://img.shields.io/badge/Xing-%23006567.svg?style=plastic&logo=xing&logoColor=white)](https://www.xing.com/profile/Frank_Schmidt30/web_profiles)
 
+---
+
 ## 💻 Tech Stack
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E95420?style=plastic&logo=proxmox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![KOMODO](https://img.shields.io/badge/Komodo-2e8555?style=plastic)
