@@ -40,10 +40,7 @@ Parallel to this, I run an advisory office of an income tax assistance associati
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=drfschmidt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)/
-
-<!-- ![](https://streak-stats.demolab.com/?user=drfschmidt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=drfschmidt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=drfschmidt&show_icons=true&theme=merko)
 
 ---
 
