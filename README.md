@@ -4,25 +4,21 @@
 
 ## 📝 Kurzbeschreibung
 
-Ich heiße Frank Schmidt — promovierter Elektroingenieur, inzwischen im Ruhestand, aber längst nicht im Leerlauf.
+Ich heiße Frank Schmidt, bin promovierter Elektroingenieur und mittlerweile im Ruhestand - allerdings nicht im Leerlauf.
 
 ## 🎯 Freizeit und Projekte
 
-Meine Freizeit gehört meinem HomeLab: Virtualisierung mit Proxmox, smarte Haussteuerung mit Homeassistant und Homematic IP sowie dem ständigen Feilen an neuen Lösungen.
-
-Parallel dazu leite ich eine Beratungsstelle eines Lohnsteuerhilfevereins in Leipzig Gohlis.
+In meiner Freizeit beschäftige ich mich mit meinem HomeLab: Ich virtualisiere mit Proxmox, steuere meine Wohnung mit Home Assistant und Homematic IP und probiere ständig neue Lösungen aus.
 
 ---
 
 ## 📝Brief description
 
-My name is Frank Schmidt — PhD in electrical engineering, now retired, but by no means idle.
+My name is Frank Schmidt. I hold a PhD in electrical engineering and am now retired - though far from idle.
 
 ## 🎯Free time and projects
 
-My free time is devoted to my HomeLab: virtualization with Proxmox, smart home control with Home Assistant and Homematic IP, and constantly refining new solutions.
-
-Parallel to this, I run an advisory office of an income tax assistance association in Leipzig Gohlis.
+My free time goes into my HomeLab: I run virtualization with Proxmox, control my appartment with Home Assistant and Homematic IP, and I'm always tinkering with new solutions.
 
 ---
 
@@ -42,7 +38,7 @@ Parallel to this, I run an advisory office of an income tax assistance associati
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=drfschmidt&show_icons=true&theme=merko&locale=de&hide=contribs)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=drfschmidt&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide=contribs)
 
 ---
 
